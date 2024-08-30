@@ -7,6 +7,7 @@
 
 ***
 
+cookies
 ## Key Vocab
 
 - **Identity and Access Management (IAM)**: a subfield of software engineering that
